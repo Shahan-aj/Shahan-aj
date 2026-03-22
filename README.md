@@ -18,7 +18,7 @@
 
 **Core:** Python • SQL • PySpark
 ☁️ **Cloud:** Azure • Fabric • AWS
-⚙️ **Data Eng:** ETL/ELT • Modeling • Orchestration
+⚙️ **Data Eng:** ETL/ELT • Modeling • Orchestration\n
 📊 **Analytics:** Power BI
 
 ---
