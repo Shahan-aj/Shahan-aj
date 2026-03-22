@@ -3,7 +3,6 @@
 **Data Engineer | Technical Lead @ HCLTech**
 
 ---
-
 ## 👨‍💻 About Me
 
 * Data professional specializing in **end-to-end data engineering pipelines**
@@ -13,33 +12,20 @@
 * Focused on designing **scalable, production-grade data systems**
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming & Querying
-
 `Python` | `SQL` | `PySpark`
-
 ### ⚙️ Data Engineering & Processing
-
 `ETL/ELT Pipelines` | `Data Modeling` | `Data Validation` | `Workflow Orchestration`
-
 ### ☁️ Cloud & Platforms
-
 `Microsoft Azure` | `Microsoft Fabric` | `AWS (S3)`
-
 ### 🗄️ Data Storage
-
 `Lakehouse Architecture` | `Data Warehousing` | `PostgreSQL`
-
 ### 🔄 DevOps & Tools
-
 `Docker` | `Git` | `CI/CD Pipelines`
-
 ### 📊 Analytics & Visualization
-
 `Power BI` | `Excel`
-
 ---
 
 ## 📫 Connect With Me
