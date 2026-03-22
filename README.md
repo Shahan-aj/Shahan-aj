@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Akhmal Shahan
 
-🚀 **Data Engineer | Technical Lead @ HCLTech**
+ **Data Engineer | Technical Lead @ HCLTech**
 
-* 🏗️ Building end-to-end data pipelines (ETL/ELT)
+* Building end-to-end data pipelines (ETL/ELT)
 * ☁️ Working with Azure, Fabric, AWS & modern data stack
 * ⚙️ Focused on scalable, production-grade systems
-* 📊 Background in Supply Chain Analytics & BI
-* 📫 How to reach me → [LinkedIn](https://linkedin.com/in/akhmal-shahan) | [akhmalshahan96@gmail.com](mailto:akhmalshahan96@gmail.com)
+* Background in Manufacturing Systems & BI
+* 📫 How to reach me → [[LinkedIn](https://linkedin.com/in/akhmal-shahan)](https://linkedin.com/in/akhmal-shahan) | [akhmalshahan96@gmail.com](mailto:akhmalshahan96@gmail.com)
 
 ---
 ## 🛠️ Tech Stack
