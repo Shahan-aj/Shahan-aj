@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhmal Shahan
 
-🚀 **Data Engineer | Technical Lead @ HCLTech**
+**Data Engineer | Technical Lead @ HCLTech**
 
 ---
 
