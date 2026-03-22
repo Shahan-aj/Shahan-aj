@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=python,aws,azure,docker,git,postgres" />
 </p>
 
-💡 **Core:** Python • SQL • PySpark
+**Core:** Python • SQL • PySpark
 ☁️ **Cloud:** Azure • Fabric • AWS
 ⚙️ **Data Eng:** ETL/ELT • Modeling • Orchestration
 📊 **Analytics:** Power BI
