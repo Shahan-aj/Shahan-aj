@@ -15,7 +15,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,aws,azure,docker,git,postgres" />
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="48"/>
+  <img src="./images/airflow.png" height="48"/>
+  <img src="./images/dbt.png" height="48"/>
 </p>
 
  **Core:** Python • SQL • PySpark
