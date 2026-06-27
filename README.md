@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akhmal Shahan
 
- **Data Engineer | Data Platform & DevOps | Technical Lead @ HCLTech**
+ **Business Analyst | Data Platform & DevOps | Technical Lead @ HCLTech**
 
 - Building end-to-end data pipelines (ETL/ELT)
 - Working with Azure, Fabric, AWS & modern data stack
